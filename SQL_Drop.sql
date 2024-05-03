@@ -1,0 +1,1 @@
+DROP TABLE detalhes_login CASCADE CONSTRAINTS;
